@@ -4,8 +4,8 @@ Supplementary material to our submitted paper in the International Journal of Ap
 Left: MLS point cloud obtained in Kálvin square, Budapest, Hungary. <br/>
 Right: Point cloud frame captured by a Velodyne HDL64E sensor in Kálvin square, Budapest, Hungary. <br/>
 ## Dataset
-The full dataset used in the paper can be downloaded here.
-The description of the dataset is available here:
+The full dataset used in the paper can be downloaded here.\
+The description of the dataset is available [here](docs/benchmark.pdf).
 ## Citation
 If you found this work helpful for your research, or use some part of the code, please cite our submitted paper (currently under review):
 

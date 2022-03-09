@@ -99,12 +99,12 @@ Expected output:\
 <img src="images/Step5_1.png" width="800">
 <img src="images/Step5_2.png" width="800">
 <img src="images/Step5_3.png" width="800">
-<img src="images/Step5_4.png" width="800">\
+<img src="images/Step5_4.png" width="800">
 #### 6. Change detection in 3D
 Expected output:\
 <img src="images/Step6.png" width="800">
 
-Color code: blue = static, red = dynamic change, blue = vegetation change\
+Color code: blue = static, red = dynamic change, blue = vegetation change
 
 ##### For more details, please address our paper.
 

@@ -72,12 +72,27 @@ $ ./Lidar-SCU path_to_rmb_lidar_frame.pcd path_to_mls_data.pcd
 ```
 By default, the execution follows the steps below:
 #### 1. Landmark object extraction from dense MLS point clouds
+Expected output:\
+<img src="images/Step1.png" width="800">
 
+Color code: red = pillar-like columns, orange = other static objects
 #### 2. Object detection in sparse Lidar scans
+Expected output:\
+<img src="images/Step2.png" width="800">
 
+Color code: red = pillar-like object candidates
 #### 3. Bounding-box-based coarse registration
+Expected output:\
+<img src="images/Step3_1.png" width="400"><img src="images/Step3_2.png" width="400">
 
+Color code: red = RMB Lidar, blue = MLS map
+Left: before alignment
+Right: after alignment
 #### 4. Standard ICP alignment
+Expected output:\
+<img src="images/Step4a.png" width="400"><img src="images/Step4b.png" width="400">
+
+Color code: red = RMB Lidar, blue = MLS map
 
 #### 5. Range-image generation
 

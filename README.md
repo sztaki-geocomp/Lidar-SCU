@@ -70,7 +70,7 @@ Run the algorithms on your own sample demo data pair:
 ```sh
 $ ./Lidar-SCU path_to_rmb_lidar_frame.pcd path_to_mls_data.pcd
 ```
-By default, the execution follows the steps below:
+By default, the execution follows the steps below. At each step, one should see similar outputs as listed here:
 #### 1. Landmark object extraction from dense MLS point clouds
 Expected output:\
 <img src="images/Step1.png" width="800">
@@ -94,10 +94,19 @@ Expected output:\
 
 Color code: red = RMB Lidar, blue = MLS map
 
-#### 5. Range-image generation
+#### 5. Range-image generation and MRF-segmentation
+Expected output:\
+<img src="images/Step5_1.png" width="800">
+<img src="images/Step5_2.png" width="800">
+<img src="images/Step5_3.png" width="800">
+<img src="images/Step5_4.png" width="800">\
+#### 6. Change detection in 3D
+Expected output:\
+<img src="images/Step6.png" width="800">
 
-#### 6. MRF-based change detection
-For more details, please address our paper.
+Color code: blue = static, red = dynamic change, blue = vegetation change\
+
+##### For more details, please address our paper.
 
 ## Authorship declaration
 The code of this repository was implemented in the [Machine Perception Research Laboratory](https://www.sztaki.hu/en/science/departments/mplab), Institute of Computer Science and Control (SZTAKI), Budapest.\

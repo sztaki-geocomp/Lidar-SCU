@@ -70,7 +70,7 @@ Run the algorithms on your own sample demo data pair:
 ```sh
 $ ./Lidar-SCU path_to_rmb_lidar_frame.pcd path_to_mls_data.pcd
 ```
-By default, the execution follows the steps below. At each step, one should see similar outputs as listed here:
+By default, the execution follows the steps below. At each step, one should see similar outputs as listed here. Please close each figure to go to the next step.
 #### 1. Landmark object extraction from dense MLS point clouds
 Expected output:\
 <img src="images/Step1.png" width="800">

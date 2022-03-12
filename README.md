@@ -85,8 +85,8 @@ Color code: red = pillar-like object candidates
 Expected output:\
 <img src="images/Step3_1.png" width="400"><img src="images/Step3_2.png" width="400">
 
-Color code: red = RMB Lidar, blue = MLS map
-Left: before alignment
+Color code: red = RMB Lidar, blue = MLS map\
+Left: before alignment\
 Right: after alignment
 #### 4. Standard ICP alignment
 Expected output:\

@@ -15,7 +15,7 @@ If you found this work helpful for your research, or use some part of the code, 
 	author={Zováthi, Örkény and Nagy, Balázs and Benedek, Csaba}, 
 	journal={International Journal of Applied Earth Observation and Geoinformation}, 
 	year={2022},
-	note={under review}
+	note={to appear}
 }
 ```
 

@@ -7,7 +7,7 @@ Right: Point cloud frame captured by a Velodyne HDL64E sensor in Kálvin square,
 The full dataset used in the paper can be downloaded [from this link](http://gofile.me/5waZC/xac75WX2X).\
 The description of the dataset and its usage is available [here](docs/benchmark.pdf).
 ## Citation
-If you found this work helpful for your research, or use some part of the code, please cite our submitted paper (currently under review):
+If you found this work helpful for your research, or use some part of the code, please cite our submitted paper (to appear soon):
 
 ```text
 @article{lidar-scu, 

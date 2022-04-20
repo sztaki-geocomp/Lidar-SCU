@@ -1,5 +1,5 @@
 # Point Cloud Registration and Change Detection in Urban Environment Using an Onboard Lidar Sensor and MLS Reference Data
-Supplementary material to our submitted paper in the International Journal of Applied Earth Observation and Geoinformation, 2022\
+Supplementary material to our paper in the International Journal of Applied Earth Observation and Geoinformation, 2022\
 <img src="https://user-images.githubusercontent.com/50795664/156535451-4b0c4332-60d8-4c63-99ca-588564ee873e.png" width="400" height="400"> <img src="https://user-images.githubusercontent.com/50795664/156535768-d5095132-8a04-4578-b65f-b20549c69326.png" width="400" height="400">\
 Left: MLS point cloud obtained in Kálvin square, Budapest, Hungary. <br/>
 Right: Point cloud frame captured by a Velodyne HDL64E sensor in Kálvin square, Budapest, Hungary. <br/>
@@ -7,7 +7,7 @@ Right: Point cloud frame captured by a Velodyne HDL64E sensor in Kálvin square,
 The full dataset used in the paper can be downloaded [from this link](http://gofile.me/5waZC/xac75WX2X).\
 The description of the dataset and its usage is available [here](docs/benchmark.pdf).
 ## Citation
-If you found this work helpful for your research, or use some part of the code, please cite our submitted paper (to appear soon):
+If you found this work helpful for your research, or use some part of the code, please cite our paper (to appear soon):
 
 ```text
 @article{lidar-scu, 

@@ -10,12 +10,16 @@ The description of the dataset and its usage is available [here](docs/benchmark.
 If you found this work helpful for your research, or use some part of the code, please cite our paper:
 
 ```text
-@article{lidar-scu, 
-	title={{Point Cloud Registration and Change Detection in Urban Environment Using an Onboard Lidar Sensor and MLS Reference Data}}, 
-	author={Zováthi, Örkény and Nagy, Balázs and Benedek, Csaba}, 
-	journal={International Journal of Applied Earth Observation and Geoinformation}, 
-	year={2022},
-	note={to appear}
+@article{lidar-scu,
+	title = {Point cloud registration and change detection in urban environment using an onboard Lidar sensor and MLS reference data},
+	journal = {International Journal of Applied Earth Observation and Geoinformation},
+	volume = {110},
+	pages = {102767},
+	year = {2022},
+	issn = {1569-8432},
+	doi = {https://doi.org/10.1016/j.jag.2022.102767},
+	url = {https://www.sciencedirect.com/science/article/pii/S0303243422000939},
+	author = {Örkény Zováthi and Balázs Nagy and Csaba Benedek},
 }
 ```
 
